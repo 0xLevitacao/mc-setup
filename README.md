@@ -4,7 +4,7 @@
 
 - [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) - An Open-Source, Multi-Instance, no Bloat, no Telemetry, no ads minecraft launcher.
 
-## Mods
+## Mods (I use the [Fabric](https://fabricmc.net/) modloader)
 
 - Mod Menu - Adds a mod menu to view the list of mods you have installed. If supported by the mod, enables easier access to the mod's config screens.
 
@@ -48,3 +48,7 @@
 - AppleSkin - Shows hunger and saturation values in the HUD.
 
 - Better Ping Display - Displays each player's ping in the player list as a number.
+
+## Honorable mention
+
+- In-Game Account Switcher - Allows you to change which account you are logged in to in-game, without having to restart Minecraft. (i dont personally use this one, as i only play on one account, but i have tested it and it works well)
