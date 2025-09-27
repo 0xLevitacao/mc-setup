@@ -25,6 +25,8 @@
 - [Nvidium](https://modrinth.com/mod/nvidium) - NVIDIA-only rendering backend for Sodium, using mesh shaders to massively boost FPS and enable ultra-high render distances on 16xx series or newer GPUs. 
 (At the time im writing this, Nvidium only supports minecraft versions up to 1.21.1 so i'm using [this fork](https://github.com/drouarb/nvidium))
 
+- [Iris](https://modrinth.com/mod/iris) - Enables shader pack support with Sodium.
+
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) - Renders low-detail (LOD) terrain far beyond vanilla view distance limit.
 
 - [Lighty](https://modrinth.com/mod/lighty) - Visualizes light levels with color-codded overlays to spot mob spawn zones, toggleable via F7.
